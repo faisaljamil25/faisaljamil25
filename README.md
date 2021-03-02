@@ -22,38 +22,40 @@
 
 <p>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img width="10%" src="https://raw.githubusercontent.com/faisaljamil25/music-player/a663d229ee2f6c83d0f6d7add0ab2903476a12d0/public/material-ui.svg"></code>
+<img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">&nbsp;&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">&nbsp;&nbsp;
+<img width="4%" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">&nbsp;&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">&nbsp;&nbsp;&nbsp;
+<img width="5%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/express.svg">
+<img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">&nbsp;&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">&nbsp;
+<img width="3.6%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/css.svg">&nbsp;&nbsp;
+<img width="6%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/sass.svg">&nbsp;
+<img width="5%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/material-ui.svg">&nbsp;&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">&nbsp;
+<img width="4%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/cpp.svg">
 <br />
 </p>
 
 ### 📊 Profile stats
 
 <div align="center">
-  <img width="55%" align="right" alt="Faisal's github stats" src="https://github-readme-stats.vercel.app/api?username=faisaljamil25&hide=stars&show_icons=true&hide_border=true"/>
+  <img width="50%" align="right" alt="Faisal's github stats" src="https://github-readme-stats.vercel.app/api?username=faisaljamil25&hide=stars&show_icons=true&hide_border=true"/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisaljamil25&show_icons=true&layout=compact&hide_border=true)](https://github.com/faisaljamil25/github-readme-stats)
 
 
 </div>
 
-
+<!--
 ### ✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaljamil25" alt="Faisal" /> </p>
-
+-->
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > The only way of discovering the limits of the possible is to venture a little way past them into the impossible.

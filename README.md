@@ -41,21 +41,12 @@
 <br />
 </p>
 
-### 📊 Profile stats
 
-<div align="center">
-  <img width="50%" align="right" alt="Faisal's github stats" src="https://github-readme-stats.vercel.app/api?username=faisaljamil25&hide=stars&show_icons=true&hide_border=true"/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisaljamil25&show_icons=true&layout=compact&hide_border=true)](https://github.com/faisaljamil25/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisaljamil25&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaljamil25&layout=compact" height="170px">
+</p>
 
-
-</div>
-
-<!--
-### ✨ Visitors 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaljamil25" alt="Faisal" /> </p>
--->
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > The only way of discovering the limits of the possible is to venture a little way past them into the impossible.

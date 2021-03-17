@@ -27,7 +27,8 @@
 <img width="4%" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">&nbsp;&nbsp;&nbsp;
 <img width="5%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/express.svg">
-<img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">&nbsp;
+<img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img width="4%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/8842e812d7f7bd9a9d4a1779631df091fa55e651/icons/redux.svg">&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;

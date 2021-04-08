@@ -24,6 +24,7 @@
 
 <img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">&nbsp;&nbsp;
+<img width="6%" src="https://github.com/faisaljamil25/faisaljamil25/blob/main/icons/nextjs.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">&nbsp;&nbsp;
 <img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">&nbsp;&nbsp;&nbsp;
 <img width="5%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/express.svg">

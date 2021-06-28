@@ -30,16 +30,6 @@
 <img width="5%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/express.svg">
 <img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
 <img width="4%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/8842e812d7f7bd9a9d4a1779631df091fa55e651/icons/redux.svg">&nbsp;
-<img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">&nbsp;&nbsp;
-<img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;&nbsp;
-<img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;
-<img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">&nbsp;
-<img width="3.6%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/css.svg">&nbsp;&nbsp;
-<img width="6%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/sass.svg">&nbsp;
-<img width="5%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/material-ui.svg">&nbsp;&nbsp;
-<img width="4%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">&nbsp;
-<img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">&nbsp;
-<img width="4%" src="https://raw.githubusercontent.com/faisaljamil25/faisaljamil25/dacb4bfc56996fb0bffffd813e29af23b06faed2/icons/cpp.svg">
 <br />
 </p>
 

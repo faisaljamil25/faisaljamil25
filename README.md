@@ -4,7 +4,7 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/faisaljamil25/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/faisaljamil25/"></a>
-<a href="mailto:faisaljamilcs@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:faisaljamilcs@gmail.com"></a>
+<a href="mailto:faisalmanit23@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:faisalmanit23@gmail.com"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
